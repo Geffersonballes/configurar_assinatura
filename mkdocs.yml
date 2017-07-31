@@ -1,6 +1,6 @@
 # Informações do Projeto
-site_name: Configuração da Assinatura de e-mail
-site_description: 'Configuração da Assinatura de e-mail'
+site_name: Configurando Assinatura de E-mail
+site_description: 'Configurando assinatura de E-mail'
 site_author: 'Gefferson Balles'
 site_url: 'http://gs.io/docs'
 
@@ -50,5 +50,6 @@ markdown_extensions:
 # Paginas
 pages:
   - 'Home': 
-    - 'Configurando assinatura de E-mail': 'assinatura.md'
+    - 'Início': 'index.md'
+      - 'configurar_assinatura': 'assinatura.md'
 
