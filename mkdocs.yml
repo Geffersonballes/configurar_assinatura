@@ -51,5 +51,4 @@ markdown_extensions:
 pages:
   - 'Home': 
     - 'Início': 'index.md'
-      - 'configurar_assinatura': 'assinatura.md'
-
+    - 'Configurando Assinatura': 'assinatura.md'
