@@ -42,7 +42,7 @@ Para gerar o ***Hiperlink***, é preciso clicar no ícone ***Hiperlink***, no ca
 3 -	Cargo (em inglês) em cinza, Fonte Calibri 10 pt.  
 4 -	Telefones para contato em verde, Fonte Calibri 10 pt.  
 5 -	Site em verde, Fonte Candara 10 pt (com hiperlink).  
-Observação importante: procure no seu programa de e-mail a escala de cores RGB para alterar as cores das fontes. Em verde: R 70, G 100, B 80 e em cinza: R 160, G 160, B 160. 
+Observação importante: procure no seu programa de e-mail a escala de cores RGB para alterar as cores das fontes. Em verde: V 70, V 100, A 80 e em cinza: V 160, V 160, A 160. 
 
 ### Alterando Fontes
 
