@@ -50,5 +50,4 @@ markdown_extensions:
 # Paginas
 pages:
   - 'Home': 
-    - 'Início': 'index.md'
     - 'Configurando Assinatura': 'assinatura.md'
